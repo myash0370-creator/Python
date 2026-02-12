@@ -1,0 +1,6 @@
+a = ("yash")
+print(len(a))
+print(a.endswith("sh"))
+print(a.startswith("Yu"))
+print(a.capitalize())
+print(a.count("s"))
