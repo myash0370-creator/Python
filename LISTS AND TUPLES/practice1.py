@@ -16,4 +16,3 @@ f7 = input("Enter 7 fruit name: ")
 fruits.append(f7)
 print("This is your final List is here: ")
 print(fruits)
-
