@@ -1,4 +1,5 @@
 # PROJECT 1: SNAKE, WATER, GUN GAME:
+
 import random 
 computer = random.choice([-1 , 1 , 0])
 user_input = input("Enter your choice: ")
