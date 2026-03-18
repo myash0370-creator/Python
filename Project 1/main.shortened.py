@@ -36,8 +36,9 @@ else:
 
          The below logic is written on the basis of the value of computer - you
         '''
+       
 if((computer - user == -1) or (computer - user ==2)):
         print("Ypu lose!")
 
 else:
-        print("You win!")
+     print("You win!")
