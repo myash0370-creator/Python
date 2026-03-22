@@ -5,4 +5,5 @@ class employee:          #class
 yash = employee()        #object
 yash.language = "R"       # This is an instance attribute
 print(yash.salary , yash.language)
+
 # Instance attributes, take preference over class attributes during assignment & retrieval.
